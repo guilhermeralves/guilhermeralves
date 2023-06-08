@@ -1,5 +1,7 @@
 <div>
   
+  <img width="1000" height="300" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
+  
   <h1 align="center">
     Olá, Muito Prazer! Me chamo 
     <a href="https://www.linkedin.com/in/guilherme-rodrigues-708069176/">Guilherme Rodrigues</a>
