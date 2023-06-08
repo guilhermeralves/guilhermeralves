@@ -45,4 +45,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </div><br>
     
+![Snake animation](https://github.com/guilhermeralves/guilhermeralves/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
