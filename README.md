@@ -11,14 +11,6 @@
     - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas pela 
     <a href="https://unicv.edu.br/">UniCV.</a>
   </p>
-  <p align="left">
-    - 💼 Estagiário em Desenvolvimento de Software na 
-    <a href="https://algorcode.com.br/">Algor Code Tecnologia.</a>
-   </p>
-  <p align="left">
-    - 💻 Trabalhando Atualmente no Projeto: 
-    <a href="https://github.com/leonardormlins/agendou">Agendou.</a>
-   </p>
    <p align="left">
     - 📧 comercial.rodriguees@gmail.com
   </p>
