@@ -8,8 +8,8 @@
   </h1>
   
  <p align="left">
-    - 📚 <i>Sou estudante de Análise e Desenvolvimento de Sistemas pela 
-    <a href="https://unicv.edu.br/">UniCV.</a></i>
+    - 📚 <b>Sou estudante de Análise e Desenvolvimento de Sistemas pela 
+    <a href="https://unicv.edu.br/">UniCV.</a></b>
 </p>
   </p>
    <p align="left">
