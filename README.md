@@ -7,9 +7,10 @@
     <a href="https://www.linkedin.com/in/guilherme-rodrigues-708069176/">Guilherme Rodrigues</a>
   </h1>
   
-  <p align="left">
-    - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas pela 
-    <a href="https://unicv.edu.br/">UniCV.</a>
+ <p align="left">
+    - <b><i>📚 Sou estudante de Análise e Desenvolvimento de Sistemas pela 
+    <a href="https://unicv.edu.br/">UniCV.</a></i></b>
+</p>
   </p>
    <p align="left">
     - 📧 comercial.rodriguees@gmail.com
