@@ -1,6 +1,6 @@
 <div>
   
-  <img width="1000" height="200" src="https://github.com/guilhermeralves/guilhermeralves/blob/main/electronic-brain-and-concept-of-artificial-intelligence-ai-vector.jpg">
+  <img width="" height="" src="https://github.com/guilhermeralves/guilhermeralves/blob/main/electronic-brain-and-concept-of-artificial-intelligence-ai-vector.jpg">
   
   <h1 align="center">
     Olá, Muito Prazer! Me chamo 
