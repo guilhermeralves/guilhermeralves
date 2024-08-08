@@ -8,12 +8,12 @@
   </h1>
   
  <p align="left">
-    - <b><i>📚 Sou estudante de Análise e Desenvolvimento de Sistemas pela 
-    <a href="https://unicv.edu.br/">UniCV.</a></i></b>
+    - 📚 <i>Sou estudante de Análise e Desenvolvimento de Sistemas pela 
+    <a href="https://unicv.edu.br/">UniCV.</a></i>
 </p>
   </p>
    <p align="left">
-    - 📧 comercial.rodriguees@gmail.com
+    - 📧 <i>comercial.rodriguees@gmail.com</i>
   </p>
   
 </div>
