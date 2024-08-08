@@ -6,14 +6,18 @@
     Olá, Muito Prazer! Me chamo 
     <a href="https://www.linkedin.com/in/guilherme-rodrigues-708069176/">Guilherme Rodrigues</a>
   </h1>
+
+ <h3 align="left">
+    -<i>Suporte em TI na<a href="https://www.valltech.com.br/">Valltech.</a></i>
+</h3>
   
  <h3 align="left">
-    - 📚 <i>Estudante de Análise e Desenvolvimento de Sistemas pela 
+    -<i>Estudante de Análise e Desenvolvimento de Sistemas pela 
     <a href="https://unicv.edu.br/">UniCV.</a></i>
 </h3>
   </p>
    <h3 align="left">
-    - 📧 <i>comercial.rodriguees@gmail.com</i>
+    -<i>comercial.rodriguees@gmail.com</i>
   </h3>
   
 </div>
