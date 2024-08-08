@@ -1,6 +1,6 @@
 <div>
   
-  <img width="1000" height="200" src="https://marketplace.canva.com/EAENvk2CS4M/1/0/1600w/canva-simple-technology-linkedin-banner-iHvm-YmdTcQ.jpg">
+  <img width="1000" height="200" src="https://github.com/guilhermeralves/guilhermeralves/blob/main/electronic-brain-and-concept-of-artificial-intelligence-ai-vector.jpg">
   
   <h1 align="center">
     Olá, Muito Prazer! Me chamo 
