@@ -8,7 +8,7 @@
   </h1>
 
  <h3 align="left">
-    -<i> Suporte em TI na <a href="https://www.valltech.com.br/">Valltech.</a></i>
+    -<i> Desenvolvimento na <a href="http://control2.com.br/index.html">Control2 Sistemas.</a></i>
 </h3>
   
  <h3 align="left">
